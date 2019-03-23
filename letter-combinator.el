@@ -48,4 +48,5 @@
     (delete-region r-b r-e)
     (insert replace-with)))
 
+(provide 'letter-combinator)
 ;;; letter-combinator.el ends here
